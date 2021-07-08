@@ -66,9 +66,9 @@
     --font-dyslexic: "opendyslexicregular";
     --font-serif: Georgia, "Times New Roman", Times, serif;
     /* Accent colours */
-    --accent: #3D5FF1;
-    --accent-raise: #5c7cfd;
-    --target: rgba(78,112,248,0.7);
+    --accent: #f7872c;
+    --accent-raise: #ffb46d;
+    --target: rgba(247, 172, 34, 0.7);
     /* Raised shadows */
     --raise-1: 0px 5px 5px 0px rgba(0,0,0,0.1);
     --raise-2: 0px 5px 5px 0px rgba(0,0,0,0.15);
@@ -138,9 +138,9 @@
     --text-main: rgba(255,255,255,0.75);
     --text-alt: rgba(255,255,255,0.5);
     /* Accent colours */
-    --accent: #3D5FF1;
-    --accent-raise: #5c7cfd;
-    --target: rgba(78,112,248,0.7);
+    --accent: #f7872c;
+    --accent-raise: #ffb46d;
+    --target: rgba(247, 172, 34, 0.7);
     /* Raised shadows */
     --raise-1: 0px 5px 5px 0px rgba(0,0,0,0.15);
     --raise-2: 0px 5px 5px 0px rgba(0,0,0,0.25);
