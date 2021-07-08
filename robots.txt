@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow: /versions/
+Disallow: /resourcepacks
+Disallow: /datapacks
+Disallow: /maps
+Disallow: /about
+Disallow: /accounts
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.example.com/sitemap.xml
